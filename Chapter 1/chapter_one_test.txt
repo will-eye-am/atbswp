@@ -1,0 +1,20 @@
+1.  Operator - *
+    Value - 'hello'
+    Value - -88.8
+    Operator - -
+    Operator - /
+    Operator - +
+    Value - 5
+2.  Variable - spam
+    String - 'spam'
+3. String, Integer, Float
+4. Value, Operator; Evaluate to single value
+5. Expressions evaluate values; Statements do not
+6. 21 
+7. 'spamspamspam'
+8. Cannot start variable with a number
+9. int(), float(), str()
+10. You cannot concat an integer; 'I have eaten ' + str(99) + ' burritos.'
+
+
+9/10 - number 6
